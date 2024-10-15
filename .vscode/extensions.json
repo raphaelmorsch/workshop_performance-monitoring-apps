@@ -5,6 +5,7 @@
       "redhat.vscode-xml",
       "redhat.vscode-yaml",
       "vscjava.vscode-java-test",
-      "cnshenj.vscode-task-manager"
+      "cnshenj.vscode-task-manager",
+      "redhat.java"
     ]
 }
